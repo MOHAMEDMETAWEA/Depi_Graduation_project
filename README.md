@@ -44,7 +44,7 @@ The healthcare industry requires timely and accurate predictions of patient heal
 ## ⚙️ Installation
 ```bash
 # Clone the repository
-$ git clone https://github.com/Husseinwaked/Healthcare-Project.git
+$ git clone https://github.com/MOHAMEDMETAWEA/Depi_Graduation_project
 
 # Navigate to the project directory
 $ cd Healthcare-Project
