@@ -1,2 +1,5 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
 heart_2020_cleaned.csv filter=lfs diff=lfs merge=lfs -text
+=======
+>>>>>>> d57256dbd51385fb7b7b62e1972af09060c07d7c
